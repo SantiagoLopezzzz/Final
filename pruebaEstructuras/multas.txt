@@ -1,0 +1,8 @@
+Descripción: Estacionamiento en lugar prohibido
+Monto: 50.0
+Modelo: hola
+Color: rojo
+Número de placa: bvc123
+Nombre del propietario: juan
+Número de identificación: 123456
+
